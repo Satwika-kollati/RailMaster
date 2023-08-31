@@ -1,5 +1,6 @@
 # RailMaster
 Problem: The process of Allocation of Shifts for Railway employees is done mostly manually and is a hectic process due to the constraints that an employee will be travelling only up-to a certain distance, and need proper rest until he takes duty for next train, and he should also be returning to the home town. There is documentation that a train should go at particular speeds at particular places, and stop when signal is given. This is also done on paper. 
+
 How this project ains to solve those problems by providing the features:
 1.Authentication and Authorization for Railway Employees and Supervisors.
 2.Profile for railway employees which show -their details, the depo's in between which they travel-which remain constant, location they are currently in, the total distance they travelled on weekly, monthly basis -can be used for their salary calculation.
